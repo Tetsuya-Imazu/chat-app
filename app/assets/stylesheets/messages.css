@@ -14,8 +14,8 @@
 }
 
 .side-header{
-  height: 100px;
   padding: 0 20px;
+  height: 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
